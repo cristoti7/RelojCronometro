@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RelojCronometro\Reloj.cs">
+    <Files>
+      <File FileName="RelojCronometro\Principal.cs" Line="23" Column="5" />
+      <File FileName="RelojCronometro\Cronometro.cs" Line="21" Column="6" />
+      <File FileName="RelojCronometro\Reloj.cs" Line="19" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
